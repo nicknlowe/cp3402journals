@@ -3,9 +3,9 @@
 ## Learning Activities & Resources
 This week I re-entered the world of basic website creation and building with HTML, CSS and JavaScript. I also studied the fundamental aspects of web design and development through LinkedIn Learning and was introduced into the subject and expectations through the lecture videos.
 
-https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=2223545
-https://www.w3schools.com/html/default.asp
-https://developer.mozilla.org/en-US/docs/Web/CSS
+* https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=2223545
+* https://www.w3schools.com/html/default.asp
+* https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ## Estimated Hours
 I spent around 4 hours of my time on this subject this week, including time reading and understanding assignment 1.
