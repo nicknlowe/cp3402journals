@@ -1,4 +1,4 @@
-# Journal 4
+# Journal 5
 
 ## Learning Activities & Resources
 This week I learnt about child themes, including their purpose and how to create them in a CMS.
