@@ -1,6 +1,12 @@
 # Journal 7
 
 ## Learning Activities & Resources
+This week I watched the lecture videos pertaining to the creation of basic PHP scripts, then went through the LinkedIn Learning videos before proceeding to do the practical. Whilst completing the practical, I continued to research how PHP can be effectively utilised with SQL queries to create more complex dyanmic sites.
+
+* https://www.linkedin.com/learning/php-for-wordpress-24300129
+* https://www.linkedin.com/learning/learning-php-4
+* https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics
+* https://www.w3schools.com/Php/php_mysql_intro.asp
 
 ## Estimated Hours
 
