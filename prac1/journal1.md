@@ -1,9 +1,9 @@
 # Journal 1
 
 ## Learning Activities & Resources
-This week I re-entered the world of basic website creation and building with HTML, CSS and JavaScript. I also studied the fundamental aspects of web design and development through LinkedIn Learning and was introduced into the subject and expectations through the lecture videos.
+This week I re-entered the world of basic website creation and building with HTML, CSS and JavaScript through the lecture videos. I also studied the fundamental aspects of web design and development through LinkedIn Learning which is when I continued to the practical tasks after finishing watching.
 
-* https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=2223545
+* https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers
 * https://www.w3schools.com/html/default.asp
 * https://developer.mozilla.org/en-US/docs/Web/CSS
 
