@@ -1,7 +1,7 @@
 # Journal 2
 
 ## Learning Activities & Resources
-This week I was introduced into the world of CMS and the features they offer over traditional, static websites.
+I began this week by watching the lecture videos, then proceeding to watch the LinkedIn Learning video. Once I finished with the guided learning, I began to independently research the different CMS providers where I ended up watching a YouTube list regarding Joomla's features and how to build a website on it. To ensure I was aware on how important learning about CMS' were I looked into the statistics which I believe may prove beneficial to employability knowledge.
 
 * https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?u=2223545
 * https://www.joomla.org/
